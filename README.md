@@ -1,1 +1,5 @@
-# Makeup-Website-php
+# Makeup-Website-php![productsa](https://github.com/user-attachments/assets/7d5b5b95-a819-460f-b7bf-bd88064a88c5)
+![products](https://github.com/user-attachments/assets/54cd224c-7ec4-46c6-b9e8-42c193cad83d)
+![main](https://github.com/user-attachments/assets/ae4f4576-76e4-4646-a9d1-fb55c09109b9)
+![hot deals](https://github.com/user-attachments/assets/e7c347ce-9297-4700-a78f-1940f592776d)
+![1](https://github.com/user-attachments/assets/2144c4a6-6a98-42e8-88b9-7fc9d1c3f98d)
